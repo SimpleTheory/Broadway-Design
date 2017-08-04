@@ -1,0 +1,40 @@
+/*Image links {Necesarry because pic downloads got screwed up}
+Background: https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png
+*/
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+.background-image {
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png');
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.t_links{
+  font-size: 18px
+  color: white;
+}
+#process h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+.minortitles {
+  font-size: 23px;
+  font-weight: bold;
+}
+.description {
+  font-size: 14px;
+}
+#new_york {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+#bottom_nav {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
